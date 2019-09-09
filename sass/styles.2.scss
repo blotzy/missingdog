@@ -751,6 +751,8 @@ Google map
 ========================================================================== */
 .maps iframe {
   pointer-events: none;
+  height: 480px;
+  width: 100%;
 }
 #map-canvas {
   height: 500px;
