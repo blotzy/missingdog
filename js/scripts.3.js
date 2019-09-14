@@ -150,7 +150,7 @@ $(document).ready(function () {
             'src="https://platform.twitter.com/widgets/tweet_button.html?url=' + encodeURIComponent(window.location) + '&amp;text=' + encodeURIComponent(document.title) + '&amp;hashtags=lostdog,antelopevalley,lancasterca,palmdale&amp;count=horizontal"' +
             'style="width:105px; height:21px;">' +
             '</iframe>' +
-            '<iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Faccosting%2Fposts%2F10220184600950272&layout=button_count&size=large&appId=2550736324986502&width=91&height=28" width="91" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>';
+            '<iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Flostninadog%2Fposts%2F113240910063664&layout=button_count&size=large&appId=2550736324986502&width=84&height=28" width="84" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>';
 
         share_bar[i].innerHTML = html;
         share_bar[i].style.display = 'inline-block';
